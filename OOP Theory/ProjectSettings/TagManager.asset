@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Hair
   - Clothes
+  - Error
   layers:
   - Default
   - TransparentFX
