@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class OkButton : CharacterName
+public class OkButton : CharacterName // INHERITANCE
 {
     public Text inputName;
 

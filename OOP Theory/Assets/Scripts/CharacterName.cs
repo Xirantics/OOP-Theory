@@ -16,6 +16,7 @@ public class CharacterName : MonoBehaviour
 
     public string CharName
 
+    // ENCAPSULATION
     {
         get { return characterName; }
 

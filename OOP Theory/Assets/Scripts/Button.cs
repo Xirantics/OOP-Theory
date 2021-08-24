@@ -8,6 +8,7 @@ public abstract class Button : MonoBehaviour
 
     public string itemTag;
 
+    // ABSTRACTION
     public virtual void changeColor()
     {
         GameObject itemToChange = GameObject.FindGameObjectWithTag(itemTag);
